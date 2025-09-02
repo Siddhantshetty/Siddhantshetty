@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddhant Shetty</h1>
-<h3 align="center">A passionate Sodtware Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantshetty&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantshetty" /> </p>
 
-- 🔭 I’m currently working on **MediBot**
+- 🔭 I’m currently working on **MediBot** an AI powered preliminary screening tool for medical conditions.
 
 - 🌱 I’m currently learning **to create Agentic AI workflows**
 
